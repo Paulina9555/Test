@@ -1,1 +1,3 @@
 Modyfikacja pierwsza.
+
+Modyfikacja druga na branchu branch-conflict-2.
